@@ -1,5 +1,9 @@
 # AI Engineer in 90 Days
 
+> Build-first roadmap for turning AI interest into public proof of work.
+>
+> Projects, RAG, agents, evals, and portfolio artifacts, minus the usual tutorial-hell cosplay.
+
 Portable 90-day build-first roadmap for becoming an AI engineer through real projects, public artifacts, and practical trade-off thinking.
 
 ## Why this exists
@@ -23,6 +27,7 @@ to:
 - `ROADMAP.md` — the full 90-day execution plan
 - `WEEKLY_SYSTEM.md` — weekly operating rhythm so you actually finish things
 - `SHOWCASE_TEMPLATE.md` — a reusable brag/public-facing template for GitHub, LinkedIn, CV input, or interviews
+- `PINNED_REPOS_PLAN.md` — a simple plan for what to pin on your GitHub profile once the projects exist
 
 ## End state after 90 days
 If you follow this properly, the output should be:
@@ -64,6 +69,7 @@ This roadmap is centered around a practical modern OSS stack:
 2. Run your weeks using `WEEKLY_SYSTEM.md`
 3. Ship one visible artifact every 1–2 weeks
 4. Update `SHOWCASE_TEMPLATE.md` as you go, not only at the end
+5. Once you have 3 real repos, use `PINNED_REPOS_PLAN.md` to clean up your GitHub profile surface
 
 ## Anti-bullshit guardrails
 - If there is no artifact, it is not done
@@ -80,6 +86,7 @@ It is a realistic build-first plan to create strong beginner-to-junior level evi
 - `ROADMAP.md`
 - `SHOWCASE_TEMPLATE.md`
 - `WEEKLY_SYSTEM.md`
+- `PINNED_REPOS_PLAN.md`
 - `LICENSE`
 
 ## License

@@ -3,6 +3,12 @@
 Use this as a public-facing summary, GitHub profile input, LinkedIn post scaffold, or interview prep note.
 Replace placeholders later with your real shipped projects.
 
+## Identity block
+- **GitHub:** `github.com/tkromsa`
+- **Handle:** `@tkromsa`
+- **Focus:** practical AI engineering, local-first tooling, RAG, agents, evals
+- **Current angle:** build real things, publish artifacts, skip empty thought-leader theatre
+
 ## One-liner
 In 90 days I built a practical AI engineering portfolio focused on local inference, RAG, agent workflows, evaluations, and production-minded project packaging.
 
@@ -58,6 +64,10 @@ In 90 days I built a practical AI engineering portfolio focused on local inferen
 - **Why this one:** it best shows practical engineering instead of toy prompting
 - **Link:** `[add link]`
 - **30s pitch:** I built a practical AI application that combines model runtime, retrieval/workflow logic, and evaluation with enough documentation that another person can actually run and review it.
+
+## Short bio variant
+I am building AI projects in public with a simple rule: shipped artifacts beat opinions.
+The focus is practical engineering, not demo-theatre, so every project needs code, documentation, and some evidence it actually works.
 
 ## Short flex without cringe
 I did not go through the usual course-and-certificate route.
