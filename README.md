@@ -1,37 +1,39 @@
 # AI Engineer in 90 Days
 
-Portable 90-day build-first roadmap for becoming an AI engineer through public artifacts, not just courses and bookmarks.
+Portable 90-day build-first roadmap for becoming an AI engineer through real projects, public artifacts, and practical trade-off thinking.
 
-## What this repo is
-This repo is a compact execution pack for a 90-day AI engineering sprint.
-It is designed to be:
-- **portable** — usable on any machine
-- **practical** — focused on projects, not certificates
-- **showable** — structured so you can point people to it without cringe
+## Why this exists
+A lot of people get stuck in AI tutorial hell.
+They read threads, bookmark repos, maybe finish a course, and still have nothing defensible on GitHub.
+
+This repo is the opposite approach:
+- build first
+- document as you go
+- ship visible artifacts
+- end with portfolio evidence, not just vibes
 
 ## Who this is for
-Use this if you want to go from:
-- "I read about AI tooling"
+This roadmap is for someone who wants to move from:
+- *"I follow AI tooling"*
 
 to:
-- "I built 2–3 working projects, documented them, evaluated them, and can explain the trade-offs"
+- *"I built working AI projects, documented them clearly, and can explain the architecture, evals, and trade-offs."*
 
 ## What you get
-- `ROADMAP.md` — the main 90-day execution plan
-- `WEEKLY_SYSTEM.md` — weekly operating rhythm so you actually ship
-- `SHOWCASE_TEMPLATE.md` — brag/public-facing template for GitHub, LinkedIn, CV input, or interviews
+- `ROADMAP.md` — the full 90-day execution plan
+- `WEEKLY_SYSTEM.md` — weekly operating rhythm so you actually finish things
+- `SHOWCASE_TEMPLATE.md` — a reusable brag/public-facing template for GitHub, LinkedIn, CV input, or interviews
 
 ## End state after 90 days
-The intended output is not vague knowledge.
-The intended output is a portfolio with:
+If you follow this properly, the output should be:
 
-1. 2–3 clean GitHub projects
-2. 1 stronger capstone repo
-3. documented README/demo/eval flow
-4. something you can show publicly without pretending harder than reality allows
+1. **2–3 clean GitHub projects**
+2. **1 stronger capstone repo**
+3. **README + demo + eval flow** people can actually review
+4. **A portfolio story** you can explain without pretending to be more senior than you are
 
-## Recommended stack
-This roadmap assumes you will build around a practical modern OSS stack:
+## Suggested stack
+This roadmap is centered around a practical modern OSS stack:
 - Python
 - FastAPI
 - Ollama
@@ -42,11 +44,7 @@ This roadmap assumes you will build around a practical modern OSS stack:
 - Docker
 - MCP basics
 
-## Core rule
-Do **not** try to learn every framework deeply at the same time.
-Pick one main lane, build one thing, ship it, then layer on the next piece.
-
-## Suggested repo order
+## Suggested learning order
 ### Core
 1. `microsoft/ai-agents-for-beginners`
 2. `ollama/ollama`
@@ -63,9 +61,9 @@ Pick one main lane, build one thing, ship it, then layer on the next piece.
 
 ## How to use this repo
 1. Read `ROADMAP.md`
-2. Follow `WEEKLY_SYSTEM.md`
-3. Ship one artifact every 1–2 weeks
-4. Fill `SHOWCASE_TEMPLATE.md` as you go instead of trying to reconstruct your story at the end
+2. Run your weeks using `WEEKLY_SYSTEM.md`
+3. Ship one visible artifact every 1–2 weeks
+4. Update `SHOWCASE_TEMPLATE.md` as you go, not only at the end
 
 ## Anti-bullshit guardrails
 - If there is no artifact, it is not done
@@ -73,9 +71,16 @@ Pick one main lane, build one thing, ship it, then layer on the next piece.
 - If there are no tests or evals, it is still mostly a demo
 - If you cannot explain the trade-offs, do not fake confidence
 
-## Good public framing
-This is not a promise to become a senior AI engineer in 90 days.
-This is a realistic build-first plan to create credible beginner-to-junior level evidence fast.
+## Good framing
+This is **not** a promise to become a senior AI engineer in 90 days.
+It is a realistic build-first plan to create strong beginner-to-junior level evidence quickly.
+
+## Repo contents
+- `README.md`
+- `ROADMAP.md`
+- `SHOWCASE_TEMPLATE.md`
+- `WEEKLY_SYSTEM.md`
+- `LICENSE`
 
 ## License
 MIT — see `LICENSE`.
